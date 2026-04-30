@@ -68,8 +68,8 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ---
 
 ## Program
-# Developed By: DEEPIKA.R
-# Register Number: 212224100009
+# Developed By: HASHINI.R
+# Register Number: 212224240055
 
 import cv2
 import numpy as np
@@ -113,11 +113,7 @@ plt.tight_layout()
 plt.show()
 
 
-### Developed By:
-**Name:** ____Hashini R________________________  
 
-### Register No:
-_________________212224240055___________  
 
 ---
 
